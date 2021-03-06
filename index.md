@@ -1,6 +1,6 @@
 ## CodEx - A Visual Exploration Clustering-Based Tool for Program Comprehension
 
-|![](/images/interface.png)|
+![](/images/interface_boarder.png)
 
 It is an interactive, visualization tool that enables a top-down and bottom-up analysis of a system 
 and its execution paths for an enhanced program comprehension experience.
