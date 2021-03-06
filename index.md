@@ -1,4 +1,4 @@
-## CodEx - A Visual Exploration Clustering-Based Tool for Program Comprehension\<kbd>
+## CodEx - A Visual Exploration Clustering-Based Tool for Program Comprehension
 
 |![](/images/interface.png)|
 
