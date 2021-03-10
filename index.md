@@ -9,7 +9,8 @@ It can automatically analyze the source file of a system and construct the stati
 ### Features Overview
 -
 
-![visitors](https://page-views.glitch.me/badge?page_id=RakanAlanazi.CodEx)
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D71C8&title_bg=%23555555&icon=tripadvisor.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
+
 
 
 
