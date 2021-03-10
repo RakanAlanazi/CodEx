@@ -1,7 +1,7 @@
 ## CodEx - A Visual Exploration Clustering-Based Tool for Program Comprehension
 
 ![](/images/interface.png | width=100)
-<img src="/images/interface.png" width="200" height="400" />
+<img src="/images/interface.png" width="400" height="400" />
 
 An interactive, web-based visualization tool that enables a top-down and bottom-up analysis of a system 
 and its execution paths for an enhanced program comprehension experience. The tool implements the execution path mining along with the visualization aspects.
