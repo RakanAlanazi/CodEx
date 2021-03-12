@@ -11,7 +11,7 @@ This demo shows how we can cluster the system call graph into multi-level of gra
 </p>
 
 ### CodEx v0.5.0: [SweetHome3D](http://www.sweethome3d.com/) case study
-This demo illustrate how we alleviate the challenges of understating complex call graph by adopting a multi-level graph abstraction technique.
+This demo illustrates how we alleviate the challenges of understating complex call graph by adopting a multi-level graph abstraction technique.
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pbxh8vk4IKk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
