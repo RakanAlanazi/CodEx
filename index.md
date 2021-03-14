@@ -1,4 +1,4 @@
-## CodEx - A Visual Exploration Clustering-Based Tool for Program Comprehension
+## CodEx - A Visual Clustering-Based Exploration Tool for Program Comprehension.
 
 <img src="https://raw.githubusercontent.com/RakanAlanazi/CodEx/gh-pages/images/interface.png" width="600" height="400" />
 
