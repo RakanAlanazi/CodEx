@@ -9,7 +9,7 @@ name: CodEx
 author: Rakan Alanazi
 
 # Short bio or description (displayed in the header)
-description: A Visual Exploration Clustering-Based Tool for Program Comprehension
+description: A Visual Clustering-Based Exploration Tool for Program Comprehension.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/reverie.png
@@ -38,10 +38,10 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: 
+disqus: rakan
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-43339302-11
+google_analytics: G-P63YDYB3P3
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
