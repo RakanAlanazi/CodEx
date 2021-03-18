@@ -14,22 +14,18 @@ You can reference the following paper to learn more about our tool:
 
 If you find it useful, please cite the publication.
 
-```md
-categories: JavaScript
-```
-
-```md
-@article{ALANAZI2021110945,
-title = {Facilitating program comprehension with call graph multilevel hierarchical abstractions},
-journal = {Journal of Systems and Software},
-volume = {176},
-pages = {110945},
-year = {2021},
-issn = {0164-1212},
-doi = {https://doi.org/10.1016/j.jss.2021.110945},
-url = {https://www.sciencedirect.com/science/article/pii/S016412122100042X},
-author = {Rakan Alanazi and Gharib Gharibi and Yugyung Lee}
-}```
+<code>
+@article{ALANAZI2021110945,<br>
+&nbsp&nbsp&nbsp title = {Facilitating program comprehension with call graph multilevel hierarchical abstractions},<br>
+&nbsp&nbsp&nbsp journal = {Journal of Systems and Software},<br>
+&nbsp&nbsp&nbsp volume = {176},<br>
+&nbsp&nbsp&nbsp pages = {110945},<br>
+&nbsp&nbsp&nbsp year = {2021},<br>
+&nbsp&nbsp&nbsp issn = {0164-1212},<br>
+&nbsp&nbsp&nbsp doi = {https://doi.org/10.1016/j.jss.2021.110945},<br>
+&nbsp&nbsp&nbsp url = {https://www.sciencedirect.com/science/article/pii/S016412122100042X},<br>
+&nbsp&nbsp&nbsp author = {Rakan Alanazi and Gharib Gharibi and Yugyung Lee}
+</code>
 
 
 
