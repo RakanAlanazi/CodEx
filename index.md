@@ -15,7 +15,7 @@ You can reference the following paper to learn more about our tool:
 If you find it useful, please cite the publication.
 
 
-<p style="padding:10px;background-color:#F5F5F5"> 
+<p style="padding:10px;background-color:#F5F5F5;font-size: 0.875em;"> 
 <code style="color:black">
 
 @article{ALANAZI2021110945,<br>
