@@ -14,20 +14,23 @@ You can reference the following paper to learn more about our tool:
 
 If you find it useful, please cite the publication.
 
-<textarea style="overflow:hidden;resize:none;color:black",width=20px rows="13" cols="100">
-@article{ALANAZI2021110945,
-     title = {Facilitating program comprehension with call graph multilevel hierarchical abstractions},
-     journal = {Journal of Systems and Software},
-     volume = {176},
-     pages = {110945},
-     year = {2021},
-     issn = {0164-1212},
-     doi = {https://doi.org/10.1016/j.jss.2021.110945},
-     url = {https://www.sciencedirect.com/science/article/pii/S016412122100042X},
+
+<p style="padding:10px;background-color:#F5F5F5"> 
+<code style="color:black">
+
+@article{ALANAZI2021110945,<br>
+     title = {Facilitating program comprehension with call graph multilevel hierarchical abstractions},<br>
+     journal = {Journal of Systems and Software},<br>
+     volume = {176},<br>
+     pages = {110945},<br>
+     year = {2021},<br>
+     issn = {0164-1212},<br>
+     doi = {https://doi.org/10.1016/j.jss.2021.110945},<br>
+     url = {https://www.sciencedirect.com/science/article/pii/S016412122100042X},<br>
      author = {Rakan Alanazi and Gharib Gharibi and Yugyung Lee}
-</textarea>
 
-
+</code>
+</p>
 
 
 
