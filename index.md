@@ -10,9 +10,10 @@ It can automatically analyze the source file of a system and construct the stati
 
 ### References
 You can reference the following paper to learn more about our tool:
-  Alanazi, R., Gharibi, G., and Lee, Y. Facilitating program comprehension with callgraph multilevel hierarchical abstractions. Journal of Systems and Software 176(2021), 110945, https://doi.org/10.1016/j.jss.2021.110945 ([publisher link](https://www.sciencedirect.com/science/article/pii/S016412122100042X)).
+> Alanazi, R., Gharibi, G., and Lee, Y. Facilitating program comprehension with callgraph multilevel hierarchical abstractions. Journal of Systems and Software 176(2021), 110945, https://doi.org/10.1016/j.jss.2021.110945 ([publisher link](https://www.sciencedirect.com/science/article/pii/S016412122100042X)).
 
 If you find it useful, please cite the publication.
+
 
 ```md
 @article{ALANAZI2021110945,
