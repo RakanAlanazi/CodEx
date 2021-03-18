@@ -14,6 +14,9 @@ You can reference the following paper to learn more about our tool:
 
 If you find it useful, please cite the publication.
 
+```md
+categories: JavaScript
+```
 
 ```md
 @article{ALANAZI2021110945,
